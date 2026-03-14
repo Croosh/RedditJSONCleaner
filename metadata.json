@@ -1,0 +1,5 @@
+{
+  "name": "Reddit JSON Cleaner",
+  "description": "A minimal utility to clean and format raw Reddit API JSON data for AI analysis.",
+  "requestFramePermissions": []
+}
