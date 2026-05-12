@@ -1,20 +1,5 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
 
-# Run and deploy your AI Studio app
+# Reddit JSON Cleaner
 
-This contains everything you need to run your app locally.
+Paste raw Reddit API JSON to extract clean, qualitative data optimized for LLM analysis.
 
-View your app in AI Studio: https://ai.studio/apps/d83bd998-8cdd-45d5-a0f2-0faf3d9f024b
-
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
